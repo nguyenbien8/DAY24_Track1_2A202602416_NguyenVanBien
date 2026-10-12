@@ -1,6 +1,6 @@
 # CS9 · Kinh tế sản phẩm AI — Đề bài 1: SổSạch
 
-Bài làm cá nhân · Nguyễn Văn Biên · AI in Action, Track 1, Khóa 4
+Bài làm cá nhân · Nguyễn Văn Biển - 2A202602416 · AI in Action, Track 1, Khóa IV
 
 **Sản phẩm:** SổSạch, trợ lý AI đọc hoá đơn đầu vào, đối chiếu mã số thuế và nhập vào phần mềm kế toán cho văn phòng kế toán dịch vụ.
 
